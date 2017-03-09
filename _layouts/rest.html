@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    <div class="wrapper">
+        <!--=== Header ===-->
+        {% include navigation.html %}
+        <!--=== End Header ===-->
+        {{ content }} 
+        {% include footer.html %}
+    </div>
+    <!--/wrapper-->
+
+
+    <!-- JS Global Compulsory -->
+
+    <!-- Script -->
+    {% include script.html %}
+
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            App.init();
+            OwlCarousel.initOwlCarousel();
+            ParallaxSlider.initParallaxSlider();
+        });
+    </script>
+    <!--[if lt IE 9]>
+	<script src="assets/plugins/respond.js"></script>
+	<script src="assets/plugins/html5shiv.js"></script>
+	<script src="assets/plugins/placeholder-IE-fixes.js"></script>
+	<![endif]-->
+</body>
+
+</html>

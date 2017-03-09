@@ -1,0 +1,62 @@
+
+<div class="header">
+  <div class="container">
+    <!-- Logo -->
+    <a class="logo" href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+      <img src="img/logo.png" alt="Logo">
+    </a>
+    <!-- End Logo -->
+
+    <!-- Topbar -->
+    <div class="topbar">
+      <ul class="loginbar pull-right">
+        <li><i class="fa fa-phone"></i> <a href="{{ "/lien-he" | prepend: site.baseurl | replace: '//', '/' }}">LIÊN HỆ: 0511-3683-315</a></li>
+      </ul>
+    </div>
+    <!-- End Topbar -->
+
+    <!-- Toggle get grouped for better mobile display -->
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="fa fa-bars"></span>
+    </button>
+    <!-- End Toggle -->
+  </div><!--/end container-->
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+    <div class="container">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="{{ "/gioi-thieu" | prepend: site.baseurl | replace: '//', '/' }}">
+            Giới Thiệu
+          </a>
+        </li>
+        <li>
+          <a href="{{ "/thuc-don" | prepend: site.baseurl | replace: '//', '/' }}">
+            Thực Đơn
+          </a>
+        </li>
+        <li class="dropdown">
+          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+            DỊCH VỤ
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Tổ chức tiệc </a></li>
+            <li><a href="#">Dịch vụ nấu ăn</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="{{ "/lien-he" | prepend: site.baseurl | replace: '//', '/' }}">
+            Liên Hệ
+          </a>
+        </li>
+      </ul>
+    </div><!--/end container-->
+  </div><!--/navbar-collapse-->
+</div>
