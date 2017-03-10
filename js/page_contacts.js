@@ -1,37 +1,36 @@
-var ContactPage = function() {
+var ContactPage = function () {
 
     return {
 
         //Basic Map
-        initMap: function() {
+        initMap: function () {
             var map;
-            $(document).ready(function() {
+            $(document).ready(function () {
                 map = new GMaps({
                     div: '#map',
                     scrollwheel: false,
-                    lat: 16.0461356,
-                    lng: 108.1842931
+                    lat: 16.045959,
+                    lng: 108.184373,
+                    zoom: 16,
                 });
-
                 var marker = map.addMarker({
-                    lat: 16.0461356,
-                    lng: 108.1842931,
-                    title: 'Dịch Vụ Tiệc Thủy Bộ.'
+                    lat: 16.045959,
+                    lng: 108.184373,
+                    title: 'Dịch Vụ Tiệc Thủy Bộ Đà Nẵng.'
                 });
             });
         },
 
         //Panorama Map
-        initPanorama: function() {
+        initPanorama: function () {
             var panorama;
-            $(document).ready(function() {
+            $(document).ready(function () {
                 panorama = GMaps.createPanorama({
                     el: '#panorama',
-                    lat: 16.0461356,
-                    lng: 108.1842931
+                    lat: 16.045959,
+                    lng: 108.184373,
                 });
             });
         }
-
     };
-} ();
+}();

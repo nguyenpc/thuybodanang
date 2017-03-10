@@ -11,114 +11,105 @@ script: |
 
 ---
 
-<!--=== Breadcrumbs ===-->
-<div class="breadcrumbs">
-	<div class="container">
-		<h1 class="pull-left">Liên Hệ Với Chúng Tôi</h1>
-		<ul class="pull-right breadcrumb">
-			<li><a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">Trang Chủ</a></li>
-			<li class="active">Liên Hệ</li>
-		</ul>
-	</div>
-</div>
-<!--/breadcrumbs-->
-<!--=== End Breadcrumbs ===-->
+	<!--=== Breadcrumbs ===-->
+		<div class="breadcrumbs">
+			<div class="container">
+				<h1 class="pull-left">Liên Hệ Với Chúng Tôi</h1>
+				<ul class="pull-right breadcrumb">
+					<li><a href="{{url('')}}">Trang Chủ</a></li>
+					<li class="active">Liên Hệ</li>
+				</ul>
+			</div>
+		</div><!--/breadcrumbs-->
+		<!--=== End Breadcrumbs ===-->
 
-<!-- Google Map -->
-<div id="map" class="map">
-</div>
-<!---/map-->
-<!-- End Google Map -->
+		<!-- Google Map -->
+		<div id="map" class="map">
+		</div><!---/map-->
+		<!-- End Google Map -->
 
-<!--=== Content Part ===-->
-<div class="container content">
-	<div class="row margin-bottom-30">
-		<div class="col-md-8 mb-margin-bottom-30">
-			<p>Vui lòng để lại thông tin liên hệ, chúng tôi sẽ liên lạc lại với bạn trong thời gian sớm nhất.</p><br />
+		<!--=== Content Part ===-->
+		<div class="container content">
+			<div class="row margin-bottom-30">
+				<!--div class="col-md-8 mb-margin-bottom-30">
+					<p>Vui lòng để lại thông tin liên hệ, chúng tôi sẽ liên lạc lại với bạn trong thời gian sớm nhất.</p><br />
 
-			<form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
-				<fieldset class="no-padding">
-					<label>Tên <span class="color-red">*</span></label>
-					<div class="row sky-space-20">
-						<div class="col-md-7 col-md-offset-0">
-							<div>
-								<input type="text" name="name" id="name" class="form-control">
+					<form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
+						<fieldset class="no-padding">
+							<label>Tên <span class="color-red">*</span></label>
+							<div class="row sky-space-20">
+								<div class="col-md-7 col-md-offset-0">
+									<div>
+										<input type="text" name="name" id="name" class="form-control">
+									</div>
+								</div>
 							</div>
-						</div>
-					</div>
-					<label>Số điện thoại <span class="color-red">*</span></label>
-					<div class="row sky-space-20">
-						<div class="col-md-7 col-md-offset-0">
-							<div>
-								<input type="text" name="phone" id="phone" class="form-control">
+							<label>Số điện thoại <span class="color-red">*</span></label>
+							<div class="row sky-space-20">
+								<div class="col-md-7 col-md-offset-0">
+									<div>
+										<input type="text" name="phone" id="phone" class="form-control">
+									</div>
+								</div>
 							</div>
-						</div>
-					</div>
 
-					<label>Email <span class="color-red">*</span></label>
-					<div class="row sky-space-20">
-						<div class="col-md-7 col-md-offset-0">
-							<div>
-								<input type="text" name="email" id="email" class="form-control">
+							<label>Email <span class="color-red">*</span></label>
+							<div class="row sky-space-20">
+								<div class="col-md-7 col-md-offset-0">
+									<div>
+										<input type="text" name="email" id="email" class="form-control">
+									</div>
+								</div>
 							</div>
-						</div>
-					</div>
 
-					<label>Lời Nhắn <span class="color-red">*</span></label>
-					<div class="row sky-space-20">
-						<div class="col-md-11 col-md-offset-0">
-							<div>
-								<textarea rows="8" name="message" id="message" class="form-control"></textarea>
+							<label>Lời Nhắn <span class="color-red">*</span></label>
+							<div class="row sky-space-20">
+								<div class="col-md-11 col-md-offset-0">
+									<div>
+										<textarea rows="8" name="message" id="message" class="form-control"></textarea>
+									</div>
+								</div>
 							</div>
-						</div>
-					</div>
-					<br>
-					<p><button type="submit" class="btn-u">Gửi</button></p>
-				</fieldset>
+							<br>
+							<p><button type="submit" class="btn-u">Gửi</button></p>
+						</fieldset>
 
-				<!-- <div class="message">
+						<!-- <div class="message">
 							<i class="rounded-x fa fa-check"></i>
 							<p>Your message was successfully sent!</p>
-						</div> -->
-			</form>
-		</div>
-		<!--/col-md-9-->
+						</div>>
+					</form>
+				</div><!--/col-md-9-->
 
-		<div class="col-md-4">
-			<!-- Contacts -->
-			<div class="headline">
-				<h2>Thông Tin Liên Hệ</h2>
-			</div>
-			<ul class="list-unstyled who margin-bottom-30">
-				<li><i class="fa fa-home"></i>281 Trường Chinh, An Khê, Q. Thanh Khê, Đà Nẵng</li>
-				<li><i class="fa fa-envelope"></i>info@thuybodanang.com</li>
-				<li><i class="fa fa-phone"></i>0511-3683-315</li>
-				<li><i class="fa fa-mobile-phone"></i>0905-325-070</li>
-				<li><i class="fa fa-mobile-phone"></i>0935-282-489</li>
-				<li><i class="fa fa-globe"></i>http://thuybodanang.com</li>
-			</ul>
+				<div class="col-md-12">
+					<!-- Contacts -->
+					<div class="headline"><h2>Thông Tin Liên Hệ</h2></div>
+					<ul class="list-unstyled who margin-bottom-30">
+						<li><i class="fa fa-home"></i>281 Trường Chinh, An Khê, Q. Thanh Khê, Đà Nẵng</li>
+						<li><i class="fa fa-envelope"></i>bachbo991970@gmail.com</li>
+						<li><i class="fa fa-phone"></i>0511-3683-315</li>
+						<li><i class="fa fa-mobile-phone"></i>0905-325-070</li>
+						<li><i class="fa fa-mobile-phone"></i>0935-282-489</li>
+						<li><i class="fa fa-globe"></i>http://thuybodanang.com</li>
+					</ul>
 
-			<!-- Business Hours -->
-			<!-- <div class="headline"><h2>Giờ Làm Việc</h2></div>
+					<!-- Business Hours -->
+					<!-- <div class="headline"><h2>Giờ Làm Việc</h2></div>
 					<ul class="list-unstyled margin-bottom-30">
 						<li><strong>Monday-Friday:</strong> 10am to 8pm</li>
 						<li><strong>Saturday:</strong> 11am to 3pm</li>
 						<li><strong>Sunday:</strong> Closed</li>
 					</ul> -->
 
-			<!-- Why we are? -->
-			<div class="headline">
-				<h2>Tại Sao Bạn Nên Chọn Chúng Tôi?</h2>
+					<!-- Why we are? -->
+					<div class="headline"><h2>Tại Sao Bạn Nên Chọn Chúng Tôi?</h2></div>
+					<p>Với nhiều năm kinh nghiệm hoạt động trong lĩnh vực tổ chức tiệc, chúng tôi tự tin mình sẽ làm hài lòng quý khách.</p>
+					<ul class="list-unstyled">
+						<li><i class="fa fa-check color-green"></i> Uy tín - Tin cậy</li>
+						<li><i class="fa fa-check color-green"></i> Giá cả hợp lý</li>
+						<li><i class="fa fa-check color-green"></i> Chất lượng luôn đặt lên hàng đầu</li>
+					</ul>
+				</div><!--/col-md-3-->
+			</div><!--/row-->
 			</div>
-			<p>Với nhiều năm kinh nghiệm hoạt động trong lĩnh vực tổ chức tiệc, chúng tôi tự tin mình sẽ làm hài lòng quý khách.</p>
-			<ul class="list-unstyled">
-				<li><i class="fa fa-check color-green"></i> Uy tín - Tin cậy</li>
-				<li><i class="fa fa-check color-green"></i> Giá cả hợp lý</li>
-				<li><i class="fa fa-check color-green"></i> Chất lượng luôn đặt lên hàng đầu</li>
-			</ul>
-		</div>
-		<!--/col-md-3-->
-	</div>
-	<!--/row-->
-</div>
 
