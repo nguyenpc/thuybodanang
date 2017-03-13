@@ -1,9 +1,5 @@
-@import url(vendor/bootstrap.min.css);
-@import url(vendor/dark.css);
-@import url(vendor/animate.css);
-@import url(vendor/font-awesome.min.css);
-@import url(vendor/parallax-slider.css);
-@import url(style.css);
-@import url(footer-v1.css);
-@import url(header-default.css);
-@import url(custom.css);
+//Import
+
+@import "vendor/bootstrap.min.css", "vendor/dark.css", "vendor/animate.css", "vendor/font-awesome.min.css", "vendor/parallax-slider.css";
+@import "style.css", "footer-v1.css", "header-default.css", "custom.css";
+// @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
