@@ -29,7 +29,8 @@ defaults:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - juicer
+  - jekyll-minifier
+
 
 # Custom variables
 version: "1.0.0"
