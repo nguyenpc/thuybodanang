@@ -20,6 +20,15 @@ permalink: gioi-thieu.html
   </div>
   <p>Quý khách đang tìm một hệ thống nhà hàng chuyên nghiệp tổ chức tiệc phục vụ tại nhà hàng hoặc tận nơi theo yêu cầu…</p>
   <p><strong>Chúng tôi sẽ là lựa chọn tốt nhất!</strong> </p>
+  <ul>
+  <li><h4>Thực đơn đa dạng, nhiều lựa chọn cho khách hàng</h4></li>
+<li><h4>Món ăn ngon, bổ, hợp khẩu vị với tất cả mọi người<h4></li>
+  <li><h4>Thực phẩm tươi sạch<h4></li>
+    <li><h4>Miễn Phí Bàn Ghế, Chén bát, Ly cốc</h4></li>
+    <li><h4>Miễn Phí Phục Vụ</h4></li>
+  <li><h4>Đội ngũ phục vụ nhiệt tình, thân thiện</h4></li>
+  <li><h4>Có kinh nghiệm lâu năm trong tổ chức tiệc và dịch vụ nấu ăn</h4></li>
+  </ul>
 
   Với kinh nghiệm nhiều năm chuyên tổ chức các buổi tiệc quy mô từ 20 đến 2000 người từ tiệc sinh nhật, tiệc công ty tổ chức tại nhà hàng của chúng tôi đến tiệc phục vụ tận nơi dành cho các sự kiện như hội thảo, khai mạc, tiệc nhân viên, tiệc cocktails, tiệc nhẹ, tiệc trà, tiệc Buffet phục vụ tận nơi….
 
