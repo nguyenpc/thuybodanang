@@ -40,7 +40,7 @@ permalink: gioi-thieu.html
   <br>
 
   <div class="shadow-wrapper margin-bottom-50" style="height:500px;">
-    <img class="img-responsive" src="http://www.dattiec24h.com/wp-content/uploads/2016/04/dat-tiec-tai-nha.jpg" alt="">
+    <img class="img-responsive" src="./dat-tiec-tai-nha.jpg" alt="">
 
   </div>
   <!-- End About Sldier -->
