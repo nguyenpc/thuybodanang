@@ -18,7 +18,7 @@ permalink: gioi-thieu.html
     <h2> <span class="color-green">Về Chúng Tôi</span></h2>
 
   </div>
-  <p>Quý khách đang tìm một hệ thống nhà hàng chuyên nghiệp tổ chức tiệc phục vụ tại nhà hàng hoặc tận nơi theo yêu cầu…</p>
+  <p>Quý khách đang tìm một dịch vụ chuyên nghiệp tổ chức tiệc phục vụ cho bữa tiệc tân gia, tiệc cưới, đám hỏi, hay thôi nôi cho thiên thần của gia đình mình?</p>
   <p><strong>Chúng tôi sẽ là lựa chọn tốt nhất!</strong> </p>
   <ul>
   <li><h4>Thực đơn đa dạng, nhiều lựa chọn cho khách hàng</h4></li>
