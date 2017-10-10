@@ -22,7 +22,7 @@ permalink: gioi-thieu.html
   <p><strong>Chúng tôi sẽ là lựa chọn tốt nhất!</strong> </p>
   <ul>
   <li><h4>Thực đơn đa dạng, nhiều lựa chọn cho khách hàng</h4></li>
-  <li><h4>Món ăn ngon, bổ, hợp khẩu vị với tất cả mọi người<h4></li>
+  <li><h4>Món ăn ngon, bổ, hợp khẩu vị với tất cả mọi người</h4></li>
   <li><h4>Thực phẩm tươi sạch</h4></li>
   <li><h4>Miễn Phí Bàn Ghế, Chén bát, Ly cốc</h4></li>
   <li><h4>Miễn Phí Phục Vụ</h4></li>
