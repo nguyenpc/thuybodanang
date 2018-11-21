@@ -4853,9 +4853,10 @@
   font-size: 20px;
   background: #222;
   position: relative;
-  right: 14px !important;
-  bottom: 11px !important;
-  border-radius: 3px !important;
+    right: auto !important;
+    bottom: 11px !important;
+    border-radius: 3px !important;
+    left: 14px !important;
 }
 
 #topcontrol:after {
