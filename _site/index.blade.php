@@ -91,7 +91,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-90')}}" class="hover-effect">Set Thực Đơn 90.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-90')}}" class="hover-effect">Set Thực Đơn 95.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -107,7 +107,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-90')}}" class="hover-effect">Set Thực Đơn 95.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-90')}}" class="hover-effect">Set Thực Đơn 100.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -123,7 +123,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a class="hover-effect" href="{{route('thuc-don-100')}}">Set Thực Đơn 100.000VNĐ</a></h3>
+              <h3> <a class="hover-effect" href="{{route('thuc-don-100')}}">Set Thực Đơn 105.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -138,7 +138,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-105')}}" class="hover-effect">Set Thực Đơn 105.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-105')}}" class="hover-effect">Set Thực Đơn 110.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -153,7 +153,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-110')}}" class="hover-effect">Set Thực Đơn 110.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-110')}}" class="hover-effect">Set Thực Đơn 115.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -168,7 +168,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-115')}}" class="hover-effect">Set Thực Đơn 115.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-115')}}" class="hover-effect">Set Thực Đơn 120.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
@@ -183,7 +183,7 @@
               </div>
             </div>
             <div class="caption">
-              <h3> <a href="{{route('thuc-don-125')}}" class="hover-effect">Set Thực Đơn 125.000VNĐ</a></h3>
+              <h3> <a href="{{route('thuc-don-125')}}" class="hover-effect">Set Thực Đơn 130.000VNĐ</a></h3>
               <!-- <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p> -->
             </div>
           </div>
